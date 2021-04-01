@@ -16,3 +16,4 @@ Mạch đầu ra IO cho KIT Micro:bit được tích hợp thêm Pin 18650 và m
 - 1 Đầu ra LCD I2C
 - LED báo trạng thái khi sạc đầy
 - Công tắc chuyển mạch bật tắt nguồn
+- Tích hợp code mẫu đi kèm
